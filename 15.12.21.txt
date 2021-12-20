@@ -1,0 +1,89 @@
+1.Asset increases debit
+
+2.Liability increases credit
+
+
+
+next session: General Ledger-IV checking
+
+how to manage,
+
+acc creation type only difference is 
+
+branches
+
+go press f9
+
+--cmd status--
+save comapny parameter
+
+banck ofz, there is 2 screen , branch test
+1.
+2.
+
+uae-weekly , closing time,,
+f9--ethopia, 
+group is branch, selling gl codes local currency
+
+save,,
+
+
+one more screen authrize screen ,
+
+ho authorization- new branch,
+menu and sec, oracle conn config
+we have to configure new screen, 
+country specific-- branch parameter creation
+spl savings, new 
+
+selling ,
+saving currency--how to exchange ,how to buy forien currency
+exchange rate of currency
+1.inputer
+2.autohrizer
+
+
+CURRENCY EXCHANGE RATE--
+AMERICAN DOLLAR, 47.67 BIR,,,
+
+HO AUTHORIZER-
+
+HOW TO BUY FOR 
+TELLER
+--BUYING FORIEN CURRENCY SCREEN
+--CASH , CREDIT A/C, CREDIT GL CODE, 
+TO SELECT FOR CURRENCY PRESS F9
+
+--TRAN NO- 102000
+BRANCH OPERATION AUTHORIZER - BUY ,SELL ,,, NOT TRANSACTION 102C00
+
+CURRENCY INPUTER SCREEN,,BUYING FOR CURR
+TICKET--
+
+
+SELLING FOREGIN CURRENCY---
+TEELER-TEE RANS--
+
+CHARGE AMOUNT 
+PARAMER SETTING - OPERATION CODE MASTER 
+(WHICH IS USED TO INSERT THE CHARGES)
+S-SENDING--
+
+PERMIT NO--BERFORE SELLING CURRENCY
+
+WE HAVE TO ENTER PERMIT NO MANUALLY
+
+FOREIN CURR SELL/BUYIN--> PERMIT DATA CAPTURING -FOREX BUREAU
+
+MEKDES DESSU()---
+PERMIT NO--  
+
+
+SELLING FORIEN CURE
+CASH ,DEBIT A/G , DEBIT GL CODE
+PERMIT NO :LIMIT SEAL RATE--REF NUM--
+
+
+DENOMINATION FOR BIRR AND USD ,, -SAVE TRANSACTION,
+
+
